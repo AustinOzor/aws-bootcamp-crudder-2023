@@ -26,7 +26,8 @@ To enable auto-prompt mode persistently across all sessions, you need to update 
 Add the following line under the [default] section: 
 ```ini 
 [default]
-cli_auto_prompt = on```
+cli_auto_prompt = on
+```
 
 This will persist the cli auto-prompt
 
