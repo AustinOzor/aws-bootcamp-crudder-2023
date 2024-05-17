@@ -38,6 +38,5 @@ This will persist the cli auto-prompt
 * Click on Security Credentials and Create Access Key
 * Choose AWS CLI Access
 * Download the CSV with the credentials
-![week0 iam user](https://github.com/AustinOzor/aws-bootcamp-crudder-2023/assets/99667583/99aecace-da99-4c0a-b8fb-97b6ba2d4a4b)
-
   
+  ![week0 iam user](https://github.com/AustinOzor/aws-bootcamp-crudder-2023/assets/99667583/e9d6dce3-1ef0-4a9e-a8e8-96f0d619e150)
