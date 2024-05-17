@@ -60,3 +60,6 @@ gp env AWS_DEFAULT_REGION=us-east-1
 ![image](https://github.com/AustinOzor/aws-bootcamp-crudder-2023/assets/99667583/23572661-c2d7-4f8f-a2f7-1b60b13705ff)
 
 ![ENV VAR](https://github.com/AustinOzor/aws-bootcamp-crudder-2023/assets/99667583/cbbdd739-159d-4786-a714-c289cf8ca042)
+
+Verifying AWS CLI:
+![image](https://github.com/AustinOzor/aws-bootcamp-crudder-2023/assets/99667583/1de84696-600f-49b0-b12b-6862964b0865)
