@@ -31,6 +31,8 @@ cli_auto_prompt = on
 
 This will persist the cli auto-prompt
 
+![image](https://github.com/AustinOzor/aws-bootcamp-crudder-2023/assets/99667583/64c5943e-c71b-44a2-813d-90ef425ff513)
+
 # Create a new User and Generate AWS Credentials
  Login to aws console with your account details
 * Enable console access for the user
@@ -50,3 +52,11 @@ export AWS_DEFAULT_REGION=us-east-1
 ```
 
 ![ENV VAR](https://github.com/AustinOzor/aws-bootcamp-crudder-2023/assets/99667583/cbbdd739-159d-4786-a714-c289cf8ca042)
+
+Persist the credentials in Gitpod workspace"
+```
+gp env AWS_ACCESS_KEY_ID=""
+gp env AWS_SECRET_ACCESS_KEY=""
+gp env AWS_DEFAULT_REGION=us-east-1
+```
+![image](https://github.com/AustinOzor/aws-bootcamp-crudder-2023/assets/99667583/23572661-c2d7-4f8f-a2f7-1b60b13705ff)
