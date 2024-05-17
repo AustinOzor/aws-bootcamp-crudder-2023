@@ -40,3 +40,10 @@ This will persist the cli auto-prompt
 * Download the CSV with the credentials
   
   ![week0 iam user](https://github.com/AustinOzor/aws-bootcamp-crudder-2023/assets/99667583/e9d6dce3-1ef0-4a9e-a8e8-96f0d619e150)
+
+# Set Environmental Variables:
+`export AWS_ACCESS_KEY_ID="" `
+`export AWS_SECRET_ACCESS_KEY="" `
+`export AWS_DEFAULT_REGION=us-east-1`
+
+![ENV VAR](https://github.com/AustinOzor/aws-bootcamp-crudder-2023/assets/99667583/cbbdd739-159d-4786-a714-c289cf8ca042)
